@@ -39,5 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Jupyter Notebook
-*/.ipynb_checkpoints/*
 Jupyter_python-checkpoint.ipynb
